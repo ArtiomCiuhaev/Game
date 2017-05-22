@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Zagg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a31a4b84becbab8d4a718a7e1afe56dbacc58fc">
+        <dex dex="D:\Zagg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0f0e0b2e7f6bffb968b4709c7bc5bd608da1cef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSimsimi-master\Zagg\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidSimsimi-master\Zagg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b2bc01b0bcddb490c15cd9d161370f513ef66204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSimsimi-master\Zagg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e3187e6723dc0fcf084e26b007dd8f28b4a0317">
+        <dex dex="D:\AndroidSimsimi-master\Zagg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bac42fd67c9ca6fc859f460f39ec889a8a1be5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Zagg\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Zagg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3734e0c904d446d92e36cd735a756aa2d352adf5\classes.dex" />
+    </item>
+
+</items>
